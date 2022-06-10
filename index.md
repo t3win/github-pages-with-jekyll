@@ -2,4 +2,6 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Name: Twinkal Barai
+Social Media Info: @t_wnkl on instagram 
+Brag Sheet: FBLA member, Waksman member, Robotics member
