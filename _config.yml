@@ -1,12 +1,14 @@
+theme: minima
+
 title: Twinkal's Website.
 author: Twinkal Barai.
-email: your-email@domain.com
+email: twinki376@gmail.com
 description: > Hi! Welcome to my website! My name is Twinkal. I am passionate about biology...
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+instagram_username: @t_wklb
+github_username: t3win
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+
